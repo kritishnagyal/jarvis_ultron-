@@ -1,1 +1,1 @@
-This above files includes the PCA technique, box plots, importance of normal ditribution, hypothesis testing
+These above files includes Data Science concepts using the Anaconda Jupyter notebook(python programming)
